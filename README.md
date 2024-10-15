@@ -1,7 +1,6 @@
 # SysTimer - Time Tracking System
 
-![SysTimer Logo](link-para-logo.png) <!-- Adicione o link da logo aqui -->
-
+[Imgur](https://imgur.com/EgL3mSo)
 ## Descrição
 
 O **SysTimer** é um sistema de rastreamento de tempo desenvolvido para freelancers, funcionários vinculados a empresas e empresas. Ele permite gerenciar projetos, tarefas e gerar faturas baseadas em tempo trabalhado, trazendo simplicidade e eficiência para o acompanhamento do tempo de trabalho.
