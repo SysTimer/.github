@@ -1,7 +1,7 @@
 # SysTimer - Time Tracking System
 
 <div style="text-align: center;">
-    <img src="https://i.imgur.com/3LZjCmP.png" width="250" height="250" style="display: inline-block;"/>
+    <img src="https://i.imgur.com/3LZjCmP.png" style="display: inline-block;"/>
 </div>
 
 ## Descrição
