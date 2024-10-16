@@ -1,6 +1,6 @@
 # SysTimer - Time Tracking System
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: 0 auto;">
     <img src="https://i.imgur.com/3LZjCmP.png" style="display: inline-block;"/>
 </div>
 
